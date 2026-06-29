@@ -2,8 +2,8 @@
 <h3 align="center">Data Analyst · BI Analyst · Data Scientist</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE" target="_blank">LinkedIn</a> ·
-  <a href="mailto:YOUR-EMAIL-HERE">Email</a> ·
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/deepanjali-paul-238072418" target="_blank">LinkedIn</a> ·
+  <a href="mailto:deepanjali.paul.msds@gmail.com">Email</a> ·
   Sydney, NSW, Australia
 </p>
 
